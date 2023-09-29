@@ -7,14 +7,15 @@ Estudante de Análise e Desenvolvimento de Sistemas / Profissional com formaçã
 - 🖥 **Professor de Informática**
 - 🖥 **Técnico em Informática**
 
+##### Estudando atualmente:
+
 <div display="inline">
 <img widhth="50" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img widhth="50" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-<img widhth="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img widhth="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>   
+<img widhth="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>       
 </div>
-
-<a href="https://www.linkedin.com/in/luciano-benicioo/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-           
+         
           
 
           
