@@ -1,4 +1,6 @@
-- 👋 **Hi, I’m @Lucianobe**
+### Hi, I’m Luciano Benicio!
+Estudante de Análise e Desenvolvimento de Sistemas / Profissional com formação em Técnico em Informática, com vivência na área de Tecnologia.
+
 - 👨‍💻 **Projeto Start - FRONT-END** 
 - 👨‍💻 **Análise e Desenvolvimento de Sistemas** 
 - 📊 **Analista de Backoffice**
