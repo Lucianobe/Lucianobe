@@ -12,7 +12,8 @@ Estudante de Análise e Desenvolvimento de Sistemas / Profissional com formaçã
 <img widhth="50" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
    <img widhth="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 
-  
+
+ <img href="https://www.linkedin.com/in/luciano-benicioo/" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
            
           
 </div>
